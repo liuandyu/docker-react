@@ -19,7 +19,8 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-      I was changed on the feature branch
+          I was changed on the feature branch!!!!!
+          Build, test, and deploy Docker applications with Kubernetes while learning production-style development workflows
       </p>
     </div>
   );
